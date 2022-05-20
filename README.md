@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Honest Gceba
 - 👀 I’m interested in front end development
-- 🌱 I’m currently learning python and javascript(react and jsx)
+- 🌱 I’m currently learning python(django)  and javascript(react and jsx)
 - 💞️ I’m looking to collaborate on web development
-- 📫 How to reach me honestgceba@gmail.com
+- 📫 How to reach me honestgceba@gmail.com and http://honestgceba-57757.web.app
+- Im a web developer, cybersecurity researcher and AI engineer.
 
 <!---
 Unumberten/Unumberten is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
